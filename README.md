@@ -3,9 +3,7 @@
 
 <div>
 <a href="">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?AlineSilv=anuraghazra"
-      />(https://github.com/anuraghazra/github-readme-stats)
-"/>
+ <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineSilv)](https://github.com/AlineSilv/github-readme-stats)"/>
   
 </div>
 
