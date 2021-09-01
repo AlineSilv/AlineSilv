@@ -3,7 +3,7 @@
 
 <div>
 <a href="">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AlineSilv=AlineSilv)](https://github.com/AlineSilv/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?AlineSilv=AlineSilv_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
 
