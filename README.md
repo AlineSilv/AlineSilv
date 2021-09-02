@@ -1,6 +1,6 @@
 ## Estudante de Engenharia de Software
 
-🤞A Procura de Estágio.
+- 🤞A Procura de Estágio.
 
  <div>
   <a href="https://github.com/AlineSilv">
