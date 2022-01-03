@@ -7,6 +7,8 @@
  <div>
   <a href="https://github.com/AlineSilv">
   <img height = "177em" width="600em" src = "https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />
+   </div>
+ <div>
   <img height = "180em" width ="494em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
