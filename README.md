@@ -1,7 +1,7 @@
 ## Estudante de Engenharia de Software
 <div>
-- Estou A Procura de Estágio !
- Estou cursando o 2° Período de Engenharia de Software, com previsão de término em abril de 2024.
+- Estou A Procura de Estágio ! <br/>
+ Estou cursando o 2° Período de Engenharia de Software, com previsão de término em abril de 2024. <br/>
 - Repositórios com PHP, Javascript, HTML, CSS e outros.
  
 
