@@ -25,5 +25,4 @@
 <a href="https://discord.com/channels/@me/927575953750757386" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord & logoColor = white "target =" _ blank "> </a> 
 <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 <a href="https://www.linkedin.com/in/aline-silva-918206207" target="_blank"> <img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white"target ="_ blank "> </a>
-  </div>
-<iframe src="https://giphy.com/embed/ZJjs83nX1Z87EWvGCp" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-birthday-wishes-to-you-ZJjs83nX1Z87EWvGCp">via GIPHY</a></p>
+  </div><div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JP3OB5y8bMhmYkI2N6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JP3OB5y8bMhmYkI2N6">via GIPHY</a></p>>
