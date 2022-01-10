@@ -1,10 +1,10 @@
-## Estudante de Engenharia de Software
+## :books: Estudante de Engenharia de Software
 <div>
-- Estou A Procura de Estágio ! <br/>
- Estou cursando o 2° Período de Engenharia de Software, com previsão de término em abril de 2024. <br/>
-- Repositórios com PHP, Javascript, HTML, CSS e outros.
+ <h2>:mag:- Estou A Procura de Estágio!</h2> <br/>
+<h4>:file_folder: - Repositórios com PHP, Javascript, HTML, CSS e outros..</h4> <br/>
+<h4>:bulb: - Já deu uma olhada no meu <a href="alinesilvadev.vercel.app">portfólio? </a></h4>
+<br/>
  
-
 </div>
 
 
@@ -17,7 +17,8 @@
 </div>
   
  
- ##
+ ## :love_letter: Entre em Contato:
+ <h4>:speech_balloon:-"Aceito feedbacks e sugestões também."</h4>
  
  
 <div> 
