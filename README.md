@@ -3,11 +3,10 @@
 <div>
  <h2>:mag:- Estou A Procura de Estágio!</h2> <br/>
 <h4>:file_folder: - Repositórios com:<br/>
- :white_circle:-Javascript. <br/>
- :white_circle:-JQuery.<br/>
+ :white_circle:-Javascript Vanilla. <br/>
+ :white_circle:-JQuery / React.<br/>
  :white_circle:-HTML e CSS (Bootstrap).<br/>
- :white_circle:-PHP.<br/>
- :white_circle:-Composer.<br/>
+ :white_circle:-PHP (Composer).<br/>
  :white_circle:-My SQL.<br/>
  :white_circle:-Git.<br/>
  e outros..</h4> <br/>
