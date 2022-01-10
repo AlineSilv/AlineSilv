@@ -1,4 +1,4 @@
-## :books: Estudante de Engenharia de Software
+## :books: Graduanda em Engenharia de Software
 <div>
  <h2>:mag:- Estou A Procura de Estágio!</h2> <br/>
 <h4>:file_folder: - Repositórios com PHP, Javascript, HTML, CSS e outros..</h4> <br/>
