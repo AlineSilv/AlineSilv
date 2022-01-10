@@ -1,7 +1,14 @@
 ## :books: Graduanda em Engenharia de Software
+-Estácio de Sá, 3° Período. 
 <div>
  <h2>:mag:- Estou A Procura de Estágio!</h2> <br/>
-<h4>:file_folder: - Repositórios com PHP, Javascript, HTML, CSS e outros..</h4> <br/>
+<h4>:file_folder: - Repositórios com:<br/>
+ :white_circle:-Javascript. <br/>
+ :white_circle:-JQuery.<br/>
+ :white_circle:-HTML e CSS (Bootstrap).<br/>
+ :white_circle:-PHP.<br/>
+ :white_circle:-Composer.<br/>
+ e outros..</h4> <br/>
 <h4>:bulb: - Já deu uma olhada no meu <a href="alinesilvadev.vercel.app">portfólio? </a></h4>
 <br/>
  
