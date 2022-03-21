@@ -1,4 +1,4 @@
-## :books: Graduanda em Engenharia de Software
+## :books: Graduanda em Ciência da Computação
 -Estácio de Sá, 3° Período. 
 <div>
  <h2>:mag:- Estou A Procura de Estágio!</h2> <br/>
