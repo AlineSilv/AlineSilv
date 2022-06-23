@@ -1,8 +1,8 @@
-## :books: Graduanda em Ciência da Computação
--Estácio de Sá, 3° Período. 
+## :books: Academic in Computer Science
+-Estácio de Sá, 4° P. 
 <div>
- <h2>:mag:- Estou A Procura de Estágio!</h2> <br/>
-<h4>:file_folder: - Repositórios com:<br/>
+ <h2>:mag:- I'm Looking for an Internship!</h2> <br/>
+<h4>:file_folder: - Repositories with:<br/>
  :white_circle:-Javascript Vanilla. <br/>
  :white_circle:-JQuery / React / Vue.<br/>
  :white_circle:-HTML e CSS (Bootstrap).<br/>
@@ -10,7 +10,7 @@
  :white_circle:-My SQL.<br/>
  :white_circle:-Git.<br/>
  e outros..</h4> <br/>
-<h4>:bulb: - Já deu uma olhada no meu <a href="alinesilvadev.vercel.app">portfólio? </a></h4>
+<h4>:bulb: - Already took a look at mine<a href="alinesilvadev.vercel.app">portfolio? </a></h4>
 <br/>
  
 </div>
@@ -22,8 +22,8 @@
 </div>
   
  
- ## :love_letter: Entre em Contato:
- <h4>:speech_balloon:-"Aceito feedbacks e sugestões também."</h4>
+ ## :love_letter: Contact:
+ <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
  
  
 <div> 
