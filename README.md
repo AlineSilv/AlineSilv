@@ -9,7 +9,7 @@
  :white_circle:-PHP (Composer, Laravel).<br/>
  :white_circle:-My SQL.<br/>
  :white_circle:-Git.<br/>
- e outros..</h4> <br/>
+ And others..</h4> <br/>
 <h4>:bulb: - Already took a look at mine<a href="alinesilvadev.vercel.app">portfolio? </a></h4>
 <br/>
  
