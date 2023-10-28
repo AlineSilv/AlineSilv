@@ -11,18 +11,16 @@
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
 <img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
  <img aling="right" width="300" src="./AlineSilv/issues/me3d.png" />
- <div>
- <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a></h4>
- <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
-<br/>
+<div>
 <h4>:love_letter: Contact:</h4>
 <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
 <a href="https://www.linkedin.com/in/aline-silva-918206207" target="_blank"> <img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white"target ="_ blank "> </a>
 </div>
 </div>
 
-
-
+</br>
+ <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a></h4>
+ <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
 <div style="display: flex"><br>
    <strong>Main Knowledges</strong>
  
