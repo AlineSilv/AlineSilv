@@ -49,7 +49,7 @@
 </div>
  
 <div>
- <img width="300" src="./AlineSilv/issues/me3d.png" />
+ <img aling="right" width="300" src="./AlineSilv/issues/me3d.png" />
   <h4>:love_letter: Contact:</h4>
  <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a></h4>
  <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
