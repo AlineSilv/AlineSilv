@@ -1,6 +1,6 @@
 <div>
  <div>
-<img width="300" src="./images/banner.png" />
+<img height="200" src="./issues/banner.png" />
 </div>
 <div>
  <h2> :books: An Academic in Computer Science <strong>Looking for a new Oportunity!</strong></h2> <br/>
@@ -49,7 +49,7 @@
 </div>
  
 <div>
- ![me3d](https://github.com/AlineSilv/AlineSilv/assets/86479510/cb46c3bb-22a4-41c0-bff4-e506092c7b41)
+ <img width="300" src="./issues/me3d.png" />
   <h4>:love_letter: Contact:</h4>
  <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a></h4>
  <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
