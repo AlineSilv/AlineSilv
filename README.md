@@ -32,24 +32,25 @@
    [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
    [![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
    [![ReactJS](https://img.shields.io/badge/react-0c0626?logo=react&logoColor=459ab7&style=for-the-badge)](https://reactjs.org/)
+   [![NextJS](https://img.shields.io/badge/nextjs-000?logo=next.js&logoColor=fff&style=for-the-badge)](https://nextjs.org/)
    [![ReactNative](https://img.shields.io/badge/reactnative-0c0626?logo=react&logoColor=459ab7&style=for-the-badge)](https://reactnative.dev/)
+   [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)
+   [![Axios](https://img.shields.io/badge/axios-7a39e3?logo=&logoColor=fff&style=for-the-badge)](https://axios-http.com/)
+   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
    [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
    
    
    
    <strong>Intermediate Knowledges</strong><br>
   
+   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
    [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=for-the-badge)](https://nodejs.org/en/)
-   [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)
-   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-   [![Axios](https://img.shields.io/badge/axios-7a39e3?logo=&logoColor=fff&style=for-the-badge)](https://axios-http.com/)
+   [![Java]](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
    
    
    
    <strong>Basic Knowledge and Studying</strong><br>
-   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-   [![NextJS](https://img.shields.io/badge/nextjs-000?logo=next.js&logoColor=fff&style=for-the-badge)](https://nextjs.org/)
    [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
    
  
