@@ -1,7 +1,10 @@
 <div>
- <div>
-![LinkedIn-Banner](https://github.com/user-attachments/assets/6e0ceb58-140d-4020-904e-703333709c9a)
-</div>
+  <div style="text-align: center;">
+    <img 
+      src="https://github.com/user-attachments/assets/6e0ceb58-140d-4020-904e-703333709c9a" 
+      alt="LinkedIn Banner" 
+    />
+  </div>
 <div>
  <h2> :books: An Academic in Computer Science <strong>Looking for a new Oportunity!</strong></h2> <br/>
 </div>
