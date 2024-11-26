@@ -10,10 +10,10 @@
 </div>
 
 
-<div>
+<div style="display: flex">
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
  <img width="300" src="./AlineSilv/issues/me3d.png" />
-   <h4>❗: - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
+   <h4>❗ - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
  <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
 <div>
 <h4>:love_letter: Contact:</h4>
