@@ -6,11 +6,11 @@
     />
   </div>
 <div>
- <h2> :books: An Academic in Computer Science <strong>Looking for a new Oportunity!</strong></h2> <br/>
+ <h2> :books: Computer Scientist <strong>Looking for a new Oportunity!</strong></h2> <br/>
 </div>
 
 
-<div>
+<div style="text-align: right;>
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
  <img width="300" src="./AlineSilv/issues/me3d.png" />
 <div>
