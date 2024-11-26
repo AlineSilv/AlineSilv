@@ -14,11 +14,11 @@
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
  <img width="300" src="./AlineSilv/issues/me3d.png" />
   <h4>❗ - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
- <!-- <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>-->
+  <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
 </div>
 </br>
- <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a></h4>
- <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
+ <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a> (Made in 2021)</h4>
+ <!--<h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>-->
  <div>
   <h4>:love_letter: Contact:</h4>
   <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
