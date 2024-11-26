@@ -1,6 +1,6 @@
 <div>
  <div>
-<img height="200" src="./AlineSilv/issues/banner.png" />
+![LinkedIn-Banner](https://github.com/user-attachments/assets/6e0ceb58-140d-4020-904e-703333709c9a)
 </div>
 <div>
  <h2> :books: An Academic in Computer Science <strong>Looking for a new Oportunity!</strong></h2> <br/>
