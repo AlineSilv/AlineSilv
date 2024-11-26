@@ -1,5 +1,5 @@
 <div>
-  <div style="text-align: center;">
+  <div>
     <img 
       src="https://github.com/user-attachments/assets/6e0ceb58-140d-4020-904e-703333709c9a" 
       alt="LinkedIn Banner" 
@@ -10,7 +10,7 @@
 </div>
 
 
-<div style="text-align: right;">
+<div>
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
  <img width="300" src="./AlineSilv/issues/me3d.png" />
 <div>
