@@ -12,7 +12,6 @@
 
 <div>
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
-<img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
  <img aling="right" width="300" src="./AlineSilv/issues/me3d.png" />
 <div>
 <h4>:love_letter: Contact:</h4>
@@ -43,7 +42,7 @@
    [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
    
    
-   
+   <img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
    <strong>Intermediate Knowledges</strong><br>
   
    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
