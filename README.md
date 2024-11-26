@@ -12,7 +12,7 @@
 
 <div>
 <!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
- <img aling="right" width="300" src="./AlineSilv/issues/me3d.png" />
+ <img width="300" src="./AlineSilv/issues/me3d.png" />
 <div>
 <h4>:love_letter: Contact:</h4>
 <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
@@ -24,6 +24,10 @@
  <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a></h4>
  <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
 <div style="display: flex"><br>
+
+  <img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
+
+  
    <strong>Main Knowledges</strong>
  
    
@@ -42,15 +46,12 @@
    [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
    
    
-   <img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
    <strong>Intermediate Knowledges</strong><br>
   
    ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
    [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=for-the-badge)](https://nodejs.org/en/)
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-   
-   
    
    <strong>Basic Knowledge and Studying</strong><br>
    [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
