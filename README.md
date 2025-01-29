@@ -44,8 +44,6 @@
   <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
 </div>
 </br>
- <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a> (Feito em 2021)</h4>
- <!--<h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>-->
  <div>
   <h4>:love_letter: Contact:</h4>
   <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
