@@ -28,8 +28,6 @@
    
    
    <strong>Intermediate Knowledges</strong><br>
-  
-   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
    [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=for-the-badge)](https://nodejs.org/en/)
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
