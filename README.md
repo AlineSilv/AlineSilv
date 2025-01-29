@@ -9,6 +9,7 @@
 <div style="display: flex"><br>
 
   <img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
+  <img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />
 
    <strong>Main Knowledges</strong>
    
@@ -38,7 +39,6 @@
  </div>
 
 <div>
-<!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
  
   <h4>❗ - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
   <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
