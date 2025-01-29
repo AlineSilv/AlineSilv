@@ -1,7 +1,7 @@
 <div>
   <div>
     <img 
-      src="https://github.com/user-attachments/assets/6e0ceb58-140d-4020-904e-703333709c9a" 
+      src="https://github.com/user-attachments/assets/23acd07c-e3da-4b17-8d0a-976ca2dfdd9a" 
       alt="LinkedIn Banner" 
     />
   </div>
