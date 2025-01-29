@@ -5,25 +5,6 @@
       alt="LinkedIn Banner" 
     />
   </div>
-<div>
- <h2> :books: Computer Scientist <strong>Looking for a new Oportunity!</strong></h2> <br/>
-</div>
-
-
-<div>
-<!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
- 
-  <h4>❗ - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
-  <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
-</div>
-</br>
- <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a> (Feito em 2021)</h4>
- <!--<h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>-->
- <div>
-  <h4>:love_letter: Contact:</h4>
-  <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://www.linkedin.com/in/aline-silva-918206207" target="_blank"> <img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target ="_ blank "> </a>
-</div>
 
 <div style="display: flex"><br>
 
@@ -55,9 +36,24 @@
    
    <strong>Basic Knowledge and Studying</strong><br>
    [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
-   
+
+ </div>
+
+<div>
+<!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
+ 
+  <h4>❗ - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
+  <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
+</div>
+</br>
+ <h4>:bulb: - Already took a look at my <a href="https://alinesilvadev.vercel.app/">portfolio? </a> (Feito em 2021)</h4>
+ <!--<h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>-->
+ <div>
+  <h4>:love_letter: Contact:</h4>
+  <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+  <a href="https://www.linkedin.com/in/aline-silva-918206207" target="_blank"> <img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target ="_ blank "> </a>
+</div>
  
 </div>
-
  
 </div>
