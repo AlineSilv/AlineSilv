@@ -15,30 +15,31 @@
 <div style="display: flex"><br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-   <strong>Main Knowledges</strong>
-   
-   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-   ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) 
-   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
-   [![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
-   [![ReactJS](https://img.shields.io/badge/react-0c0626?logo=react&logoColor=459ab7&style=for-the-badge)](https://reactjs.org/)
-   [![NextJS](https://img.shields.io/badge/nextjs-000?logo=next.js&logoColor=fff&style=for-the-badge)](https://nextjs.org/)
-   [![ReactNative](https://img.shields.io/badge/reactnative-0c0626?logo=react&logoColor=459ab7&style=for-the-badge)](https://reactnative.dev/)
-   [![ExpressJS](https://img.shields.io/badge/Express-009a36?logo=Express&logoColor=000&style=for-the-badge)](https://expressjs.com/)
-   [![Axios](https://img.shields.io/badge/axios-7a39e3?logo=&logoColor=fff&style=for-the-badge)](https://axios-http.com/)
-   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-   [![StyledComponents](https://img.shields.io/badge/styledcomponents-DB7093?logo=styled-components&logoColor=fff&style=for-the-badge)](https://styled-components.com/)
-   
-   
-   <strong>Intermediate Knowledges</strong><br>
-   [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=for-the-badge)](https://nodejs.org/en/)
-   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-   
-   <strong>Basic Knowledge and Studying</strong><br>
-   [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
+  <strong>Main Knowledges</strong>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=fff&style=flat-square)](https://www.typescriptlang.org/)
+[![ReactJS](https://img.shields.io/badge/react-0c0626?logo=react&logoColor=459ab7&style=flat-square)](https://reactjs.org/)
+[![ReactNative](https://img.shields.io/badge/reactnative-0c0626?logo=react&logoColor=459ab7&style=flat-square)](https://reactnative.dev/)
+[![NextJS](https://img.shields.io/badge/nextjs-000?logo=next.js&logoColor=fff&style=flat-square)](https://nextjs.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=fff&style=flat-square)](https://nodejs.org/en/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+<strong>Intermediate Knowledges</strong><br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=flat-square)](https://www.python.org/)
 
  </div>
 
@@ -57,8 +58,6 @@
     <a href="https://www.linkedin.com/in/AlineSilv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-      square&logo=Linkedin&logoColor=white"></a>
   </p>
 </div>
-</br>
- 
 </div>
  
 </div>
