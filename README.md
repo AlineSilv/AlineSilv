@@ -1,22 +1,22 @@
-<div>
-  <div>
-    <img 
-      src="https://github.com/user-attachments/assets/23acd07c-e3da-4b17-8d0a-976ca2dfdd9a" 
-      alt="LinkedIn Banner" 
-    />
-  </div>
+![LinkedIn Banner](https://github.com/user-attachments/assets/23acd07c-e3da-4b17-8d0a-976ca2dfdd9a)
+
+<div align="center">
   
-<p align="center">
-    <a href="https://github.com/AlineSilv?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/AlineSilv" target="_blank"><img alt="Aline" src="https://badges.pufler.dev/visits/AlineSilv/AlineSilv?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/AlineSilv/AlineSilv" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&style=flat-square"></a>
-</p>
+[![Updates](https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white)](https://github.com/AlineSilv?tab=followers)
+[![Aline](https://badges.pufler.dev/visits/AlineSilv/AlineSilv?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)](https://github.com/AlineSilv)
+[![GitHub hits](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&style=flat-square)](https://github.com/AlineSilv/AlineSilv)
+
+</div>
+
+<div style="display: flex"></br>
   
-<div style="display: flex"><br>
+<div align='right'>
+  
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-  <strong>Main Knowledges</strong>
+</div>
 
+<strong>Main Knowledges</strong></br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -36,28 +36,25 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
-<strong>Intermediate Knowledges</strong><br>
+<strong>Intermediate Knowledges</strong></br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776ab?logo=Python&logoColor=fff&style=flat-square)](https://www.python.org/)
 
- </div>
+</div>
 
-<div>
-  
 ![Nota Importante](https://img.shields.io/badge/Nota-Importante-orange?style=for-the-badge)
-> Comunicado Importante -  Alguns projetos ainda estão em tratativas, portando observe atentamente as documentações que apontam.
-> Verifique as [`Minhas Anotações de Apoio`](https://garnet-shear-d8b.notion.site/Anota-es-de-Apoio-Sobre-Java-1459f9faccaa81ccbf20cd2ed35e0af4) para acompanhar documentações e dicas.
->Sinta-se a vontade para contribuir nos projetos, enviar dúvidas e fazer contato!</br>
+>[!IMPORTANT]
+> Comunicado Importante - Alguns projetos ainda estão em tratativas, portando observe atentamente as documentações que apontam.
+> Verifique as [Minhas Anotações de Apoio](https://garnet-shear-d8b.notion.site/Anota-es-de-Apoio-Sobre-Java-1459f9faccaa81ccbf20cd2ed35e0af4) para acompanhar documentações e dicas.
+>Sinta-se a vontade para contribuir nos projetos, enviar dúvidas e fazer contato!  
 > [![Gmail Badge](https://img.shields.io/badge/-alinealv.silv@gmail.com-181717?style=flat-square&logo=Gmail&logoColor=white)](mailto:alinealv.silv@gmail.com)
+
+<div align="center">
   
-  <p align="center">
-    <a href="https://github.com/AlineSilv" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@AlineSilv-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <img alt="Stars" src="https://img.shields.io/github/stars/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41"/> 
-    <img alt="Forks" src="https://img.shields.io/github/forks/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41"/>
-    <a href="https://www.linkedin.com/in/AlineSilv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-      square&logo=Linkedin&logoColor=white"></a>
-  </p>
+[![GitHub](https://img.shields.io/badge/-@AlineSilv-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/AlineSilv)
+![Stars](https://img.shields.io/github/stars/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41) 
+![Forks](https://img.shields.io/github/forks/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AlineSilv)
+
 </div>
-</div>
- 
-</div>
+
