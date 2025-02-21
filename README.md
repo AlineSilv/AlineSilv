@@ -47,7 +47,7 @@
 ![Nota Importante](https://img.shields.io/badge/Nota-Importante-orange?style=for-the-badge)
 > Comunicado Importante -  Alguns projetos ainda estão em tratativas, portando observe atentamente as documentações que apontam.
 > Verifique as [`Minhas Anotações de Apoio`](https://garnet-shear-d8b.notion.site/Anota-es-de-Apoio-Sobre-Java-1459f9faccaa81ccbf20cd2ed35e0af4) para acompanhar documentações e dicas.
->Sinta-se a vontade para contribuir nos projetos, enviar dúvidas e fazer contato!
+>Sinta-se a vontade para contribuir nos projetos, enviar dúvidas e fazer contato!</br>
 > [![Gmail Badge](https://img.shields.io/badge/-alinealv.silv@gmail.com-181717?style=flat-square&logo=Gmail&logoColor=white)](mailto:alinealv.silv@gmail.com)
   
   <p align="center">
