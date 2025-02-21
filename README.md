@@ -5,12 +5,15 @@
       alt="LinkedIn Banner" 
     />
   </div>
-![build](https://github.com/AlineSilv/AlineSilv/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv)
-![pv](https://pageview.vercel.app/?github_user=AlineSilv)
+  
+<p align="center">
+    <a href="https://github.com/AlineSilv?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    <a href="https://github.com/AlineSilv" target="_blank"><img alt="Aline" src="https://badges.pufler.dev/visits/AlineSilv/AlineSilv?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/AlineSilv/AlineSilv" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&style=flat-square"></a>
+</p>
+  
 <div style="display: flex"><br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
 
    <strong>Main Knowledges</strong>
    
@@ -40,21 +43,23 @@
  </div>
 
 <div>
- 
-  <h4>❗ - "Comunicado Importante -  Esta rede está passando por tratativas, estou repaginando os meus repositórios e os organizando.</a></h4>
-  <h4>:speech_balloon:- Consulte os repositórios disponíveis e acesse minhas redes!"</h4>
+  
+>[!IMPORTANT]
+>Comunicado Importante -  Alguns projetos ainda estão em tratativas, portando observe atentamente as documentações que apontam.
+> Verifique as [`Minhas Anotações de Apoio`](https://garnet-shear-d8b.notion.site/Anota-es-de-Apoio-Sobre-Java-1459f9faccaa81ccbf20cd2ed35e0af4) para acompanhar documentações e dicas.
+
+ Sinta-se a vontade para contribuir nos projetos, enviar dúvidas e fazer contato!"
+[![Gmail Badge](https://img.shields.io/badge/-alinealv.silv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:alinealv.silv@gmail.com)
+  
+  
   <p align="center">
-    <a href="https://github.com/AlineSilv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://github.com/AlineSilv" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@AlineSilv-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <img alt="Stars" src="https://img.shields.io/github/stars/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41"/>
+    <a href="https://www.linkedin.com/in/AlineSilv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-      square&logo=Linkedin&logoColor=white"></a>
   </p>
 </div>
 </br>
- <div>
-  <h4>:love_letter: Contact:</h4>
-  <a href = "mailto:alinealv.silv@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://www.linkedin.com/in/aline-silva-918206207" target="_blank"> <img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target ="_ blank "> </a>
-</div>
  
 </div>
  
