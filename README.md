@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Updates](https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white)](https://github.com/AlineSilv?tab=followers)
-[![Aline](https://badges.pufler.dev/visits/AlineSilv/AlineSilv?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)](https://github.com/AlineSilv)
+![Profile Views](https://komarev.com/ghpvc/?username=AlineSilv&color=success&logo=github&style=flat-square)
 [![GitHub hits](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&style=flat-square)](https://github.com/AlineSilv/AlineSilv)
 
 </div>
