@@ -52,9 +52,10 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-@AlineSilv-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/AlineSilv)
-![Stars](https://img.shields.io/github/stars/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41) 
-![Forks](https://img.shields.io/github/forks/AlineSilv/AlineSilv?style=flat-square&labelColor=343b41)
+![Issues](https://img.shields.io/github/issues/AlineSilv/AlineSilv?style=flat-square&label=Issues&color=green)
+![Pull Requests](https://img.shields.io/github/issues-pr/AlineSilv/AlineSilv?style=flat-square&label=PRs&color=green)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AlineSilv)
 
 </div>
+
 
