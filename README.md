@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![Updates](https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white)](https://github.com/AlineSilv?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=AlineSilv&color=success&logo=github&style=flat-square)
-[![GitHub hits](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&style=flat-square)](https://github.com/AlineSilv/AlineSilv)
+[![GitHub hits](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&logo=GitHub&style=flat-square&color=green)](https://github.com/AlineSilv/AlineSilv)
+![Profile Views](https://komarev.com/ghpvc/?username=AlineSilv&color=green&logo=github&style=flat-square)
+
 
 </div>
 
