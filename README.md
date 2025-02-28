@@ -1,9 +1,9 @@
 ![LinkedIn Banner](https://github.com/user-attachments/assets/23acd07c-e3da-4b17-8d0a-976ca2dfdd9a)
 
 <div align="center">
-  
-[![GitHub hits](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&logo=GitHub&style=flat-square&color=green)](https://github.com/AlineSilv/AlineSilv)
-![Profile Views](https://komarev.com/ghpvc/?username=AlineSilv&color=green&logo=github&style=flat-square)
+
+[![GitHub hits](https://img.shields.io/github/last-commit/AlineSilv/AlineSilv?label=profile%20updated&style=flat-square&color=000000&logo=GitHub)](https://github.com/AlineSilv/AlineSilv)
+![Profile Views](https://komarev.com/ghpvc/?username=AlineSilv&color=000000&logo=github&style=flat-square)
 
 
 </div>
