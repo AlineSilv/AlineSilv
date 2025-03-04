@@ -52,7 +52,7 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-@AlineSilv-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/AlineSilv)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AlineSilv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aline-silv)
 
 </div>
 
